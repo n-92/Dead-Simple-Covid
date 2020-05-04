@@ -1,7 +1,7 @@
 # Dead Simple Covid
 ## Written in Dart and Flutter (Naing)
 
-![Country Covid Details](showcase/appstore.png)
+![Country Covid Details](showcase/appstore.png | width=50)
 
 An application that provides latest known information on Covid 19 Status.
 This app makes use of the following dependencies that are also listed in pubspec.yaml file. 
@@ -13,8 +13,8 @@ This app makes use of the following dependencies that are also listed in pubspec
 * shared_preferences: ^0.4.0 | Storing small values for persitence.  
 
 ## Sample Screenshot
-![Country Covid Details](showcase/flag.jpg)
-![Country List](showcase/list.jpg)
+![Country Covid Details](showcase/flag.jpg | width=200)
+![Country List](showcase/list.jpg | width=200)
 
 
 
