@@ -1,10 +1,7 @@
 # Dead Simple Covid
 ## Written in Dart and Flutter (Naing)
 
-<img width="200" display: block
-  margin-left: auto
-  margin-right: auto
-  width: 50% alt="icon" src="showcase/appstore.png">
+<img width="200" alt="icon" src="showcase/appstore.png">
 
 
 An application that provides latest known information on Covid 19 Status.
