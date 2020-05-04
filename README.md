@@ -14,9 +14,12 @@ This app makes use of the following dependencies that are also listed in pubspec
 * shared_preferences: ^0.4.0 | Storing small values for persitence.  
 
 ## Sample Screenshot
-
+### Screen 1
 <img width="400" height="800" alt="Country Covid Details" src="showcase/flag.jpg">
-![Country List](showcase/list.jpg){:height="50%" width="50%"}
+
+### Screen 2
+<img width="400" height="800" alt="Country Covid Details" src="showcase/list.jpg">
+
 
 
 
