@@ -1,4 +1,5 @@
-# Dead Simple Covid ## Written in Dart and Flutter (Naing)
+# Dead Simple Covid 
+### Written in Dart and Flutter (Naing)
 
 
 <img width="200" alt="icon" src="showcase/appstore.png">
