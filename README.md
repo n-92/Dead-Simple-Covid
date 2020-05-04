@@ -15,10 +15,11 @@ This app makes use of the following dependencies that are also listed in pubspec
 
 ## Sample Screenshot
 ### Screen 1
-<img width="400" height="800" alt="Country Covid Details" src="showcase/flag.jpg">
+<img width="400" height="800" alt="Country Covid Details" src="showcase/list.jpg">
 
 ### Screen 2
-<img width="400" height="800" alt="Country Covid Details" src="showcase/list.jpg">
+<img width="400" height="800" alt="Country Covid Details" src="showcase/flag.jpg">
+
 
 
 
