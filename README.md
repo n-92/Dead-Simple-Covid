@@ -22,8 +22,12 @@ This app makes use of the following dependencies that are also listed in pubspec
 <img width="400" height="800" alt="Country Covid Details" src="showcase/flag.jpg">
 
 
+# Great Resources
+### Get Country Flags here
+https://restcountries.eu
 
-
+### Get Covid 19 Status here
+https://covid19api.com
 
 
 
